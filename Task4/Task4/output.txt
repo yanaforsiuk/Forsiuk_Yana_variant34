@@ -1,0 +1,4 @@
+The weather is sunny.
+Today is a good day.
+I love my friends.
+Files are useful.
